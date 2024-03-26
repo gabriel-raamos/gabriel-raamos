@@ -4,7 +4,7 @@
 
 *   🌍  Moro em Lorena, Sâo Paulo
 *   ✉️  Você pode me contatar em [gabriel.ramos.galvao@hotmail.com](mailto:gabriel.ramos.galvao@hotmail.com)
-*   🧠  Estou estudando ReactJS
+*   🧠  Atualmente estudando JavaScript
 
 ### Habilidades
 <p>
