@@ -62,14 +62,14 @@
 
 ### Redes Sociais
 
-<p align="left"> 
+ <!--+ <p align="left"> 
   <a href="https://www.github.com/gabriel-raamos" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
     </picture> 
-  </a> 
+  </a> +-->
   
   <a href="http://www.instagram.com/gabriel.raaamos" target="_blank" rel="noreferrer"> 
     <picture> 
