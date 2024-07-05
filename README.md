@@ -1,10 +1,10 @@
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=37A7ED&center=true&random=false&width=1000&height=400&lines=Hello!+My+name+is+Gabriel!;I'm+21+years+old+and+from+Brazil.;Currently+learning+React." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=50&duration=1000&pause=2000&center=true&vCenter=true&random=false&width=1000&height=500&lines=Hello!+My+name+is+Gabriel!;I'm+22+y%2Fo+and+from+Brazil.;Currently+learning+JS+and+TS." alt="Typing SVG" /></a>
 
 #
 
 *   🌍  Moro em Lorena, Sâo Paulo
 *   ✉️  Você pode me contatar em [gabriel.ramos.galvao@hotmail.com](mailto:gabriel.ramos.galvao@hotmail.com)
-*   🧠  Atualmente estudando JavaScript
+*   🧠  Atualmente estudando TypeScript
 
 ### Habilidades
 <p>
@@ -96,3 +96,7 @@
 
 <!-- + https://www.profileme.dev/create-profile + -->
 <!-- + https://readme-typing-svg.herokuapp.com/demo/ + -->
+
+<!--   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=37A7ED&center=true&random=false&width=1000&height=400&lines=Hello!+My+name+is+Gabriel!;I'm+21+years+old+and+from+Brazil.;Currently+learning+React." alt="Typing SVG" /></a> 
++ -->
